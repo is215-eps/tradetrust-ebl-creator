@@ -1,7 +1,7 @@
 import React, { FunctionComponent } from "react";
 import { Link } from "react-router-dom";
 import { Settings } from "react-feather";
-import logo from "./logo.svg";
+import logo from "./eps-logo-bw.png";
 
 const urlPath = "https://tradetrust.io";
 
@@ -14,7 +14,7 @@ const navItems = [
   {
     id: "create-documents",
     label: "Create Documents",
-    path: "/",
+    path: "https://billof.ladi.ng",
   },
   {
     id: "resources",
